@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8e1a4a9-9d48-455c-8d67-b62d8fb28658" name="Default Changelist" comment="save model, load model">
+      <change beforePath="$PROJECT_DIR$/demo.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/test_stock_code.csv" beforeDir="false" afterPath="$PROJECT_DIR$/demo/test_stock_code.csv" afterDir="false" />
+    </list>
+    <list id="875a1d9e-a414-45e9-9a94-2a8cb4450329" name="save model, load model" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1x6pxZE3MW8g4LLqXBqhVVfkUZK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ML/종목코드" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ML/RF" />
+      <recent name="$PROJECT_DIR$/데이터수집/data" />
+      <recent name="$PROJECT_DIR$/데이터수집/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ML/종목코드" />
+      <recent name="$PROJECT_DIR$/데이터수집/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.XGBoost_load">
+    <configuration name="RF_load" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TYL_ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/RF/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/RF/src/RF_load.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RF_save" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TYL_ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/RF/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/RF/src/RF_save.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="XGBoost_load" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TYL_ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/XGBoost/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/XGBoost/src/XGBoost_load.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="XGBoost_save" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TYL_ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/XGBoost/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/XGBoost/src/XGBoost_save.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="company_image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TYL_ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/데이터수집/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/데이터수집/src/company_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.XGBoost_load" />
+        <item itemvalue="Python.RF_load" />
+        <item itemvalue="Python.XGBoost_save" />
+        <item itemvalue="Python.RF_save" />
+        <item itemvalue="Python.company_image" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8e1a4a9-9d48-455c-8d67-b62d8fb28658" name="Default Changelist" comment="" />
+      <changelist id="875a1d9e-a414-45e9-9a94-2a8cb4450329" name="save model, load model" comment="" />
+      <created>1629685639728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629685639728</updated>
+    </task>
+    <task id="LOCAL-00001" summary="210823">
+      <created>1629688880686</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629688880686</updated>
+    </task>
+    <task id="LOCAL-00002" summary="210823">
+      <created>1629688992152</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629688992152</updated>
+    </task>
+    <task id="LOCAL-00003" summary="210823">
+      <created>1629689266657</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629689266657</updated>
+    </task>
+    <task id="LOCAL-00004" summary="csv 제거, json 바로 변환">
+      <created>1629689388118</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629689388118</updated>
+    </task>
+    <task id="LOCAL-00005" summary="210823">
+      <created>1629689763118</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629689763118</updated>
+    </task>
+    <task id="LOCAL-00006" summary="210824 - 칼럼명 변경, json파일 저장 기능 추가">
+      <created>1629731413895</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1629731413895</updated>
+    </task>
+    <task id="LOCAL-00007" summary="210824">
+      <created>1629731492947</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1629731492947</updated>
+    </task>
+    <task id="LOCAL-00008" summary="210824 - 날짜 코드 추가, 칼럼명 수정, json 파일 저장 코드 추가">
+      <created>1629731879910</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1629731879910</updated>
+    </task>
+    <task id="LOCAL-00009" summary="210824 - 종목명,종목코드,구분 수집">
+      <created>1629732808154</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1629732808154</updated>
+    </task>
+    <task id="LOCAL-00010" summary="210824">
+      <created>1629732913108</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1629732913108</updated>
+    </task>
+    <task id="LOCAL-00011" summary="210824">
+      <created>1629732954016</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1629732954016</updated>
+    </task>
+    <task id="LOCAL-00012" summary="210824 - 시간 체크 코드 추가">
+      <created>1629785612684</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1629785612684</updated>
+    </task>
+    <task id="LOCAL-00013" summary="210825 - 시간 지연 코드 추가">
+      <created>1629895760723</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1629895760723</updated>
+    </task>
+    <task id="LOCAL-00014" summary="210825 - json 저장 수정">
+      <created>1629897073704</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1629897073704</updated>
+    </task>
+    <task id="LOCAL-00015">
+      <created>1630649338488</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1630649338488</updated>
+    </task>
+    <task id="LOCAL-00016" summary="save model, load model">
+      <created>1630659306843</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1630659306843</updated>
+    </task>
+    <task id="LOCAL-00017" summary="save model, load model">
+      <created>1630659403843</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1630659403843</updated>
+    </task>
+    <task id="LOCAL-00018" summary="save model, load model">
+      <created>1630660246808</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1630660246808</updated>
+    </task>
+    <task id="LOCAL-00019" summary="save model, load model">
+      <created>1630660495239</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1630660495239</updated>
+    </task>
+    <task id="LOCAL-00020" summary="save model, load model">
+      <created>1630660910394</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1630660910394</updated>
+    </task>
+    <task id="LOCAL-00021" summary="save model, load model">
+      <created>1630667286522</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1630667286522</updated>
+    </task>
+    <task id="LOCAL-00022" summary="save model, load model">
+      <created>1630671017425</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1630671017425</updated>
+    </task>
+    <task id="LOCAL-00023" summary="save model, load model">
+      <created>1630833796512</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1630833796512</updated>
+    </task>
+    <task id="LOCAL-00024" summary="save model, load model">
+      <created>1630837051159</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1630837051159</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="csv 제거, json 바로 변환" />
+    <MESSAGE value="210823" />
+    <MESSAGE value="210824 - 칼럼명 변경, json파일 저장 기능 추가" />
+    <MESSAGE value="210824 - 날짜 코드 추가, 칼럼명 수정, json 파일 저장 코드 추가" />
+    <MESSAGE value="210824 - 종목명,종목코드,구분 수집" />
+    <MESSAGE value="210824" />
+    <MESSAGE value="210824 - 시간 체크 코드 추가" />
+    <MESSAGE value="210825 - 시간 지연 코드 추가" />
+    <MESSAGE value="210825 - json 저장 수정" />
+    <MESSAGE value="save model, load model" />
+    <option name="LAST_COMMIT_MESSAGE" value="save model, load model" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="353" key="#Notifications" timestamp="1630660526204">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="555" y="353" key="#Notifications/0.0.1680.1050@0.0.1680.1050" timestamp="1630660526204" />
+    <state x="549" y="331" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1630832647185">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="549" y="331" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1630832647185" />
+    <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1630833414685">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1630833414685" />
+    <state width="1073" height="413" key="GridCell.Tab.0.bottom" timestamp="1630840761535">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1073" height="413" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1630840761535" />
+    <state width="1659" height="263" key="GridCell.Tab.0.bottom/0.25.1680.950@0.25.1680.950" timestamp="1630695156714" />
+    <state width="1073" height="413" key="GridCell.Tab.0.center" timestamp="1630840761534">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1073" height="413" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1630840761534" />
+    <state width="1659" height="263" key="GridCell.Tab.0.center/0.25.1680.950@0.25.1680.950" timestamp="1630695156714" />
+    <state width="1073" height="413" key="GridCell.Tab.0.left" timestamp="1630840761534">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1073" height="413" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1630840761534" />
+    <state width="1659" height="263" key="GridCell.Tab.0.left/0.25.1680.950@0.25.1680.950" timestamp="1630695156713" />
+    <state width="1073" height="413" key="GridCell.Tab.0.right" timestamp="1630840761535">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1073" height="413" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1630840761535" />
+    <state width="1659" height="263" key="GridCell.Tab.0.right/0.25.1680.950@0.25.1680.950" timestamp="1630695156714" />
+    <state width="871" height="364" key="GridCell.Tab.1.bottom" timestamp="1630830814893">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="871" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1630830814893" />
+    <state width="871" height="364" key="GridCell.Tab.1.center" timestamp="1630830814892">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="871" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1630830814892" />
+    <state width="871" height="364" key="GridCell.Tab.1.left" timestamp="1630830814892">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="871" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1630830814892" />
+    <state width="871" height="364" key="GridCell.Tab.1.right" timestamp="1630830814893">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="871" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1630830814893" />
+    <state x="352" y="322" key="SettingsEditor" timestamp="1630678246321">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="352" y="322" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1630678246321" />
+    <state x="692" y="442" key="VCS.ChangelistChooser" timestamp="1630837339665">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="692" y="442" key="VCS.ChangelistChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1630837339665" />
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1630837299408">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1630837299408" />
+    <state x="989" y="69" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1630833571184">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="989" y="69" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1630833571184" />
+    <state x="641" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1629731466615">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="641" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1629731466615" />
+    <state x="396" y="258" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1630673386465">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="396" y="258" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1680.1050@0.0.1680.1050" timestamp="1630673386465" />
+  </component>
+</project>
